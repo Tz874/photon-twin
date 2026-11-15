@@ -1,7 +1,7 @@
 /* PHOTON // TWIN · Service Worker
    策略：首次访问把所有资源抓进 cache，之后完全走 cache（离线优先）。
    版本号改动会触发重新缓存。 */
-const VER = 'photon-twin-v10';
+const VER = 'photon-twin-v11';
 const CORE = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => {
