@@ -1,0 +1,17 @@
+{
+  "name": "PHOTON // TWIN · 光伏组件无人自动化制造车间",
+  "short_name": "PHOTON TWIN",
+  "description": "光伏组件无人自动化制造车间 3D 产线可视化 · 数字孪生",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070d16",
+  "theme_color": "#070d16",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
